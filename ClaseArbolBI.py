@@ -1,4 +1,5 @@
 #Definimos la clase para arboles binarios
+#Adair Vargas
 from ClaseNodoArbol import Node
 class BinarySearchTree:
     def __init__(self):
